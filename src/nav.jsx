@@ -74,6 +74,7 @@ export default class Nav extends React.Component {
     this.state = {mind : true};
     // this.cilck = this.cilck.bind(this);
   };
+  
   cilck() {
     this.setState({
       mind : !this.state.mind
