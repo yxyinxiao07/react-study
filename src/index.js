@@ -1,8 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./App.css";
-import App from "./app.jsx";
+import App from './App';
+// import Ref from './ref';
+// import State from './state';
 
 let root = document.querySelector("#root");
-ReactDOM.render(<App />, root); //父传子
+ReactDOM.render(<App />, root);
 

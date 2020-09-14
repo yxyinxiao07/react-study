@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+创建命令：
+npx create-react-app my-app
+npm init react-app my-app
+yarn create react-app my-app
+
 ## Available Scripts
 
 In the project directory, you can run:
