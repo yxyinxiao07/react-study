@@ -5,6 +5,10 @@ npx create-react-app my-app
 npm init react-app my-app
 yarn create react-app my-app
 
+下载react-router
+yarn add react-router-dom
+npm install react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
